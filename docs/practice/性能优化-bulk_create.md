@@ -1,0 +1,1 @@
+bulk_create 一定要加batch_size，否则数据量太大客户端会断开链接 使用clean

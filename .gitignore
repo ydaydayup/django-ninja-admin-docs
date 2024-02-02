@@ -4,3 +4,8 @@
 node_modules
 
 .DS_Store
+/.idea/
+/.vitepress/cache1/
+
+*.mjs
+*.mjs.map
